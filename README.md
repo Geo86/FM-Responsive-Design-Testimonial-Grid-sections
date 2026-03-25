@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://geo86.github.io/FM-Responsive-Design-four-card-feature-section/)
+- Solution URL: [Solution](https://geo86.github.io/FM---Responsive-Design-Testimonial-Grid-sections)
 
 ## My process
 
